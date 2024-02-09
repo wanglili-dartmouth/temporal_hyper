@@ -1,4 +1,4 @@
-#code for paper "Hyperbolic node embedding for temporal networks" in DMKD
+# code for paper "Hyperbolic node embedding for temporal networks" in DMKD
 
 ## Citation
 
